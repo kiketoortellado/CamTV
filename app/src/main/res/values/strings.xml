@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CamTV</string>
+    <string name="hint_main">OK: pantalla completa   ·   Mantener OK o ☰: configurar cámara</string>
+    <string name="empty_slot">Vacío\nPresioná OK para agregar una cámara</string>
+</resources>
